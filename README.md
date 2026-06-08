@@ -48,8 +48,8 @@ Saya sedang mengerjakan beberapa proyek berskala industri dan personal yang mena
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sifaq00&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifaq00&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sifaq00&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifaq00&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
 </p>
 
 ---

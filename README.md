@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=3B82F6&height=250&section=header&text=Muhammad%20Asifaq&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Fullstack%20AI%20Engineer%20|%20RAG%20Specialist%20|%20ERP%20Developer&descSize=22&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=250&section=header&text=Muhammad%20Asifaq&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Fullstack%20AI%20Engineer%20|%20RAG%20Specialist%20|%20ERP%20Developer&descSize=22&descAlignY=60&theme=dark" width="100%" />
 </p>
 
 <!-- Typing Intro -->
